@@ -74,8 +74,14 @@ elsewhere. If the small store leases for $200 per day and the large store leases
 
 # Task #6:
 
-Soup Herman is a restaurant that serves soup and salad. Customers first line up in a cash register line to pay for their meals. After paying, they proceed to one of four salad bars. While all customers purchase salad, only 60% of customers go on to take the soup from one of the two soup stations.
-Assume that the IAT (of customers to the restaurant) can be modeled by a Normal Distribution: {1;0.2} minutes. The time it takes to pay the cashier, get the salad, and get soup each follows a Normal Distribution. If the cashier takes an average of 40 seconds to collect money from a customer (assume std 10 seconds}; and the customer averages two minutes to get a salad (assume std 20 seconds}; and one minute to get soup (assume std 15 seconds}. 
+Soup Herman is a restaurant that serves soup and salad. Customers first line up in a cash register line to pay for their meals. After
+paying, they proceed to one of four salad bars. While all customers purchase salad, only 60% of customers go on to take the soup from
+one of the two soup stations.
+Assume that the IAT (of customers to the restaurant) can be modeled by a Normal Distribution: {1;0.2} minutes. The time it takes to pay
+the cashier, get the salad, and get soup each follows a Normal Distribution. If the cashier takes an average of 40 seconds to collect
+money from a customer (assume std 10 seconds}; and the customer averages two minutes to get a salad (assume std 20 seconds}; and one
+minute to get soup (assume std 15 seconds}. 
 
-Determine the average time a customer spends paying for and getting food if; (i) the customer is getting salad only; and (ii) the customer is getting both soup and salad.
+Determine the average time a customer spends paying for and getting food if; (i) the customer is getting salad only; and (ii) the
+customer is getting both soup and salad.
 
